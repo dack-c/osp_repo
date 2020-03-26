@@ -1,1 +1,2 @@
-git text
+git te 
+This is new line.t
