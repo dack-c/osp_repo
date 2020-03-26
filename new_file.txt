@@ -1,2 +1,3 @@
+new new new
 git te 
 This is new line.t
